@@ -3,7 +3,6 @@
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/Powered%20by-LangChain-02A095?logo=chainlink)](https://www.langchain.com/)
 [![Gemini](https://img.shields.io/badge/LLM-Gemini%202.0%20Flash-4285F4?logo=google)](https://ai.google.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 
 ---
