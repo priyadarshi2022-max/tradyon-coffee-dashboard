@@ -55,7 +55,7 @@ and get concise, data-grounded summaries.
 3. Passed to **Gemini 2.0 Flash** for summarization & citation.  
 4. Displayed instantly in Streamlit chat interface.
 
-**Tech Stack:** `LangChain`, `Serper API`, `Gemini-1.5-Flash`
+**Tech Stack:** `LangChain`, `Serper API`, `Gemini-2.0-Flash`
 </details>
 
 ---
@@ -126,7 +126,7 @@ Track daily coffee prices from credible international and regional markets.
 |-----------|--------------------|
 | **Environment** | `uv`, `python-dotenv` |
 | **Frontend / UI** | `streamlit` |
-| **LLM / Summarization** | `langchain`, `langchain-google-genai`, `Gemini 1.5 Flash` |
+| **LLM / Summarization** | `langchain`, `langchain-google-genai`, `Gemini 2.0 Flash` |
 | **Data Retrieval** | `serper`, `feedparser`, `requests` |
 | **Parsing & Scraping** | `beautifulsoup4` |
 | **Market Data** | `yfinance` |
