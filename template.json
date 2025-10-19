@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "question",
+        "web_search_result"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nYou are an expert analyst in the domain of coffee comodity. Use only the factual\ninformation in the search results below to answer the ueser's question. Responses i.e.\nthe answer should be grounded in data - not generic LLM output. Summarize and cite t\nop results sources if available,\nfocusing on correctness and concise summarization.\nQuestion: {question}\nWeb Search Results Snippets: {web_search_result},\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
